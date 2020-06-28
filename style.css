@@ -3,11 +3,15 @@ h1{
     text-align: center;
 }
 body {
-    background-color: yellow;
+    background-image:url("img_baba.jpg");
 }
+
 img {
     width: 250px;
 }
 img{
     border-radius: 50%;
+}
+p{
+    color: red; /* set text color to red */
 }
