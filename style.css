@@ -1,9 +1,12 @@
 h1{
-    color: blue;
+    color: darkblue;
     text-align: center;
+    text-shadow: 7px 10px black;
 }
-body {
-    background-image:url("img_baba.jpg");
+body{
+    background-image: url("img/city.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 img {
@@ -14,4 +17,14 @@ img{
 }
 p{
     color: red; /* set text color to red */
+    border: 1px solid white;
+    font-style: italic;
+    
+}
+div{
+    color: green;
+    width: 300px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
 }
